@@ -47,14 +47,34 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 
 ### على Termux (أندرويد)
 
-```bash
-pkg update && pkg install python -y
-pkg install python-cryptography -y
-pip install arabic_reshaper python-bidi==0.4.2
+- **الخطوة الأولى:** تحديث النظام والمكتبات
 
-curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py
-chmod +x ~/mud_enc.py
-ln -sf ~/mud_enc.py $PREFIX/bin/enc
+pkg update && pkg install python -y
+
+- **الخطوة الثانية:** تثبيت python-cryptography
+
+  pkg install python-cryptography -y
+
+- **الخطوة الثالثة:** تثبيت المكتبات المطلوبة لعرض النص العربي بالشكل الصحيح
+
+  pip install arabic_reshaper python-bidi==0.4.2
+
+- **الخطوة الرابعة:** تثبيت الأداة
+
+  curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py
+  
+- **الخطوة الخامسة:** إعطاء صلاحية التنفيذ
+  
+  chmod +x ~/mud_enc.py
+
+- **الخطوة السادسة:** إنشاء إختصار التشغيل
+
+  ln -sf ~/mud_enc.py $PREFIX/bin/enc
+  
+```bash
+pkg update && pkg install python -y && pkg install python-cryptography -y && pip install arabic_reshaper python-bidi==0.4.2
+
+curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py && chmod +x ~/mud_enc.py && ln -sf ~/mud_enc.py $PREFIX/bin/enc
 ```
 
 بعدها تشغّل الأداة من أي مكان بالأمر:
