@@ -38,7 +38,10 @@ copy, and redistribute the Software, subject to the following conditions:
    connection with the Software or the use or other dealings in the
    Software.
 
-════════════════════════════════════════
+<div align="center">
+   
+════════════════════════
+</div>
 
 رخصة مدارك تولز — النسخ والتوزيع بدون تعديل مع ذكر المصدر
 حقوق النشر © 2026 Muhannad Daher(mmuhacker) — مدارك تولز (Madarik Tools)
