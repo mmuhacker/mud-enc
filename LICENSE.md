@@ -41,7 +41,7 @@ copy, and redistribute the Software, subject to the following conditions:
 ═══════════════════════════════════════════════════════════════════════
 
 رخصة مدارك تولز — النسخ والتوزيع بدون تعديل مع ذكر المصدر
-حقوق النشر © 2026 محند (mmuhacker) — مدارك تولز (Madarik Tools)
+حقوق النشر © 2026 Muhannad Daher(mmuhacker) — مدارك تولز (Madarik Tools)
 رابط المستودع: https://github.com/mmuhacker/mud-enc
 
 يُسمح لأي شخص يحصل على نسخة من هذا البرنامج والملفات المرفقة به
