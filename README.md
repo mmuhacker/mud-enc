@@ -7,9 +7,9 @@
 
 Arabic-first CLI encryption tool for text, code, and any file type — powered by Fernet (AES-128 + HMAC-SHA256)
 
-[![License](https://img.shields.io/badge/License-No--Derivatives%20Attribution-red)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green)]()
+[![License](https://img.shields.io/badge/License-No--Derivatives%20Attribution-red)](LICENSE)<br>
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)<br>
+[![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green)]()<br>
 [![Madarik Tools](https://img.shields.io/badge/Madarik-Tools-orange)](https://github.com/mmuhacker)
 
 </div>
