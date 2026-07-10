@@ -58,10 +58,10 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 
 > *(سيتم إضافة لقطات الشاشة هنا)*
 
-<!--
+
 <p align="center">
-  <img src="docs/screenshot-banner.png" width="600" alt="بانر الأداة">
-  <img src="docs/screenshot-menu.png" width="600" alt="القائمة الرئيسية">
+  <img src="img/enc_0.png" width="600" alt="بانر الأداة">
+  <img src="img/enc_3.png" width="600" alt="القائمة الرئيسية">
 </p>
 -->
 
