@@ -23,6 +23,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 
 📚 ***المحتويات***
 - [نبذة عن الأداة](#نبذة)
+- [مميزات الأداة](#مميزات)
 
 <div align="center" id="نبذة">
   
@@ -32,7 +33,9 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 هي جزء من سلسلة **Madarik Tools (مدارك)** — أداة تشفير عامة تشتغل من الطرفية (Terminal)،
 
 <div align="center" id="مميزات">
+  
 ## 🎯 مميزات الأداة
+  
 </div>
 
 - تشفير وفك تشفير أي **نص أو كود برمجي** يُلصق مباشرة
