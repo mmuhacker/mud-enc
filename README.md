@@ -53,36 +53,53 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 ### على Termux (أندرويد)
 
 - **الخطوة الأولى:** تحديث النظام والمكتبات
-
-pkg update && pkg install python -y
+- 
+```bash
+  pkg update && pkg install python -y
+```
 
 - **الخطوة الثانية:** تثبيت python-cryptography
 
+```bash
   pkg install python-cryptography -y
+```
 
 - **الخطوة الثالثة:** تثبيت المكتبات المطلوبة لعرض النص العربي بالشكل الصحيح
 
-  pip install arabic_reshaper python-bidi==0.4.2
-
-- **الخطوة الرابعة:** تثبيت الأداة
-
-  curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py
-  
-- **الخطوة الخامسة:** إعطاء صلاحية التنفيذ
-  
-  chmod +x ~/mud_enc.py
-
-- **الخطوة السادسة:** إنشاء إختصار التشغيل
-
-  ln -sf ~/mud_enc.py $PREFIX/bin/enc
-  
 ```bash
-pkg update && pkg install python -y && pkg install python-cryptography -y && pip install arabic_reshaper python-bidi==0.4.2
-
-curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py && chmod +x ~/mud_enc.py && ln -sf ~/mud_enc.py $PREFIX/bin/enc
+  pip install arabic_reshaper python-bidi==0.4.2
 ```
 
-بعدها تشغّل الأداة من أي مكان بالأمر:
+- **الخطوة الرابعة:** تثبيت الخط العربي (للعرض الصحيح)
+
+```bash
+curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf
+termux-reload-settings
+```
+⚠️ **هام: أغلق Termux تماماً من قائمة التطبيقات الخلفية وافتحه من جديد**
+
+- **الخطوة الخامسة:** تثبيت الأداة
+```bash
+  curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py
+```
+
+- **الخطوة السادسة:** إعطاء صلاحية التنفيذ
+- 
+```bash
+  chmod +x ~/mud_enc.py
+```
+- **الخطوة السابعة:** إنشاء إختصار التشغيل
+
+```bash
+  ln -sf ~/mud_enc.py $PREFIX/bin/enc
+```
+  **أو قم بكل شيء بالأمر المُجَمَّع:**
+  
+```bash
+pkg update && pkg install python -y && pkg install python-cryptography -y && pip install arabic_reshaper python-bidi==0.4.2 && curl -L "https://fonts.gstatic.com/s/notonaskharabic/v33/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc-VaA.ttf" -o ~/.termux/font.ttf && termux-reload-settings && curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py && chmod +x ~/mud_enc.py && ln -sf ~/mud_enc.py $PREFIX/bin/enc
+```
+
+**بعدها تشغّل الأداة من أي مكان بالأمر:**
 
 ```bash
 enc
