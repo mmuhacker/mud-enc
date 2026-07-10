@@ -108,6 +108,13 @@ enc
 
 ### على لينكس
 
+- **الخطوة الأولى:** تحديث النظام
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+- **الخطوة الثانية:** تثبيت بايثون >إذا لم تكن مثبتة
+
 ```bash
 pip install cryptography arabic_reshaper python-bidi==0.4.2 --break-system-packages
 
