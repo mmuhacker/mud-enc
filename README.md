@@ -53,7 +53,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 ### على Termux (أندرويد)
 
 - **الخطوة الأولى:** تحديث النظام والمكتبات
-- 
+
 ```bash
 pkg update && pkg install python -y
 ```
@@ -84,7 +84,7 @@ curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main
 ```
 
 - **الخطوة السادسة:** إعطاء صلاحية التنفيذ
-- 
+
 ```bash
 chmod +x ~/mud_enc.py
 ```
@@ -104,6 +104,7 @@ pkg update && pkg install python -y && pkg install python-cryptography -y && pip
 ```bash
 enc
 ```
+---
 
 ### على لينكس
 
