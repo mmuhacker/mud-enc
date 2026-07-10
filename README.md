@@ -27,6 +27,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 - [لقطات الأداة](#لقطات)
 - **التثبيت**
   - [على Termux 📲](#تيرمكس)
+  - 
 
 <div align="center" id="نبذة">
   
