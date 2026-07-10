@@ -24,6 +24,9 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 📚 ***المحتويات***
 - [نبذة عن الأداة](#نبذة)
 - [مميزات الأداة](#مميزات)
+- [لقطات الأداة](#لقطات)
+- **التثبيت**
+  - [على Termux 📲](#تيرمكس)
 
 <div align="center" id="نبذة">
   
@@ -68,8 +71,10 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 ---
 
 ## ⚙️ التثبيت
+<div align="center" id="تيرمكس">
 
 ### على Termux (أندرويد)
+<div>
 
 - **الخطوة الأولى:** تحديث النظام والمكتبات
 
