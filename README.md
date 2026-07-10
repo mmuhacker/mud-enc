@@ -29,7 +29,11 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 ## 📖 نبذة عن الأداة
 </div>
 
-**mud_enc.py** جزء من سلسلة **Madarik Tools (مدارك)** — أداة تشفير عامة تشتغل من الطرفية (Terminal)، وتدعم:
+هي جزء من سلسلة **Madarik Tools (مدارك)** — أداة تشفير عامة تشتغل من الطرفية (Terminal)،
+
+<div align="center" id="مميزات">
+## 🎯 مميزات الأداة
+</div>
 
 - تشفير وفك تشفير أي **نص أو كود برمجي** يُلصق مباشرة
 - تشفير وفك تشفير **أي نوع ملف** (نصوص، صور، APK، أرشيفات، إلخ) دون أي فقدان أو تلف بالبيانات
