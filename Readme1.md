@@ -299,14 +299,13 @@ enc
 
 ## 📝 ملف requirements.txt
 
+</div>
+
 ```
 cryptography>=3.4.8,<4.0.0
 arabic-reshaper>=3.0.0
 python-bidi>=0.4.2
 ```
-
-</div>
-
 ---
 
 <div align="center" id="تحديث">
