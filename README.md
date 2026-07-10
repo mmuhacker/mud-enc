@@ -113,8 +113,25 @@ enc
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
-- **الخطوة الثانية:** تثبيت بايثون >إذا لم تكن مثبتة
+- **الخطوة الثانية:** تثبيت بايثون إذا لم تكن مثبتة
+```bash
 
+```
+- **الخطوة الثالثة:** تثبيت cryptography والمكتبات
+
+```bash
+pip install cryptography arabic_reshaper python-bidi==0.4.2 --break-system-packages
+```
+
+- **الخطوة الرابعة:** تثبيت الأداة وإعطاء صلاحية التنفيذ
+```bash
+curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py && chmod +x ~/mud_enc.py
+```
+- **الخطوة الخامسة:** إنشاء الإختصار **enc**
+```bash
+sudo ln -sf ~/mud_enc.py /usr/local/bin/enc
+```
+- **أو قم بعمل كل شيء بالأمر المُجَمَّع:**
 ```bash
 pip install cryptography arabic_reshaper python-bidi==0.4.2 --break-system-packages
 
