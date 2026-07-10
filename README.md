@@ -31,6 +31,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 </div>
 
 هي جزء من سلسلة **Madarik Tools (مدارك)** — أداة تشفير عامة تشتغل من الطرفية (Terminal)،
+---
 
 <div align="center" id="مميزات">
   
