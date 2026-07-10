@@ -77,7 +77,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 
 ### على Termux (أندرويد)
 
-<div>
+</div>
 
 - **الخطوة الأولى:** تحديث النظام والمكتبات
 
