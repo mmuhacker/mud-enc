@@ -242,6 +242,8 @@ python-bidi&gt;=0.4.0
   
 ## 📜 الرخصة
 
+</div>
+
 هذا المشروع مرخّص بموجب [رخصة مدارك تولز — النسخ والتوزيع بدون تعديل مع ذكر المصدر](https://github.com/mmuhacker/mud-enc/blob/main/LICENSE.md).
 
 **بالمختصر:**
