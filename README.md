@@ -210,14 +210,55 @@ enc
 
 ---
 
-## 👤 المؤلف
+<div align="center" id="txt">
 
-**محند (mmuhacker)** — مطور مستقل، صاحب سلسلة أدوات **Madarik Tools (مدارك)** لأدوات الأمن السيبراني و OSINT العربية.
+## 📝 ملف requirements.txt
 
-- GitHub: [@mmuhacker](https://github.com/mmuhacker)
+```
+phonenumbers&gt;=8.13.0
+requests&gt;=2.28.0
+arabic-reshaper&gt;=3.0.0
+python-bidi&gt;=0.4.0
+```
+
+</div>
 
 ---
 
+<div align="center" id="مساهم">
+
+## 🤝 المساهمة
+
+</div>
+
+المساهمات مرحب بها! يمكنك:
+- فتح Issue للإبلاغ عن خطأ
+- تقديم Pull Request لإضافة ميزة
+- اقتراح تحسينات عبر Issues
+
+---
+
+<div align="center" id="المطور">
+
+## 👨‍💻 المطور
+
+**Muhannad Daher**
+
+[![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
+
+</div>
+
+---
+
+<div align="center" id="رخصة">
+  
+## 📄 الرخصة
+
+  </div>
+  
+**رخصة الاستخدام والنشر مع منع التعديل** – يُسمح باستخدام الأداة ونشرها بحرية، لكن يُمنع تعديل الكود أو هندسته عكسياً. راجع [الترخيص](https://github.com/mmuhacker/mud_po/blob/main/LICENSE.md) للتفاصيل الكاملة.
+
+---
 <div align="center">
 
 صُنعت بـ 🖤 كجزء من **Madarik Tools**
