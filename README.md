@@ -60,7 +60,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 
 
 <p align="center">
-  <img src="img/enc_0.png" width="600" alt="بانر الأداة">
+  <img src="img/enc_0.jpg" width="600" alt="بانر الأداة">
   <img src="img/enc_3.png" width="600" alt="القائمة الرئيسية">
 </p>
 -->
