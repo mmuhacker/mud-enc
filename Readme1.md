@@ -2,10 +2,14 @@
 
 # 🔐 mud-enc | أداة مدارك للتشفير
 
+</div>
+
 **أداة سطر أوامر عربية لتشفير وفك تشفير النصوص والأكواد والملفات — بواجهة RTL كاملة**
 
 Arabic-first CLI encryption tool for text, code, and any file type — powered by Fernet (AES-128 + HMAC-SHA256)
 
+<div align="center">
+  
 [![License](https://img.shields.io/badge/License-No--Derivatives%20Attribution-red)](LICENSE)<br>
 ![License](https://img.shields.io/badge/%EF%BA%97%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA%20%EF%BA%A7%EF%BA%8E%D8%B5-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA-8A2BE2?style=for-the-badge&logo=law)<br>
 [![by](https://img.shields.io/badge/mmuhacker-%EF%BA%97%EF%BB%84%EF%BB%AE%EF%BB%B3%EF%BA%AE-blue?style=for-the-badge&logo=github)](https://github.com/mmuhacker)<br>
