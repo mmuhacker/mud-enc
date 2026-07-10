@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🔐 mud-enc | أداة مدارك للتشفير
