@@ -21,7 +21,13 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 
 ---
 
-## 📖 نبذة
+📚 ***المحتويات***
+- [نبذة عن الأداة](#نبذة)
+
+<div align="center" id="نبذة">
+  
+## 📖 نبذة عن الأداة
+</div>
 
 **mud_enc.py** جزء من سلسلة **Madarik Tools (مدارك)** — أداة تشفير عامة تشتغل من الطرفية (Terminal)، وتدعم:
 
@@ -143,6 +149,8 @@ sudo ln -sf ~/mud_enc.py /usr/local/bin/enc
 ```bash
 enc
 ```
+
+---
 
 > إذا واجهت مشكلة باستيراد `cryptography` على Termux (خطأ `dlopen` / ABI)، ثبّتها عن طريق `pkg install python-cryptography` بدل `pip` — نسخة `pkg` مبنية خصيصاً لبيئة Termux.
 
