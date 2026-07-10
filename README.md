@@ -51,7 +51,10 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 
 ---
 
+<div align="center" id="لقطات">
+
 ## 🖼️ لقطات من الأداة
+</div>
 
 > *(سيتم إضافة لقطات الشاشة هنا)*
 
