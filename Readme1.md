@@ -345,9 +345,9 @@ chmod +x ~/mud_enc.py
 
 ## 👨‍💻 المطور
 
-Muhannad Daher
+**Muhannad Daher**
 
-https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github
+[![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
 
 </div>
 
