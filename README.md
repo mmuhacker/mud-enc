@@ -160,21 +160,24 @@ sudo apt update && sudo apt upgrade -y
 pip install cryptography arabic_reshaper python-bidi==0.4.2 --break-system-packages
 ```
 
-- **الخطوة الرابعة:** تثبيت الأداة وإعطاء صلاحية التنفيذ
+- **الخطوة الرابعة:** تثبيت الخط العربي وتفعيله في الذاكرة المؤقتة
+
+```bash
+sudo apt install xfonts-utils -y && sudo mkdir -p /usr/share/fonts/truetype/noto && sudo curl -L "https://raw.githubusercontent.com/googlefonts/noto-fonts/main/hinted/ttf/NotoNaskhArabic/NotoNaskhArabic-Regular.ttf" -o /usr/share/fonts/truetype/noto/NotoNaskhArabic-Regular.ttf && sudo fc-cache -fv
+```
+
+
+- **الخطوة الخامسة:** تثبيت الأداة وإعطاء صلاحية التنفيذ
 ```bash
 curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py && chmod +x ~/mud_enc.py
 ```
-- **الخطوة الخامسة:** إنشاء الإختصار **enc**
+- **الخطوة السادسة:** إنشاء الإختصار **enc**
 ```bash
 sudo ln -sf ~/mud_enc.py /usr/local/bin/enc
 ```
 - **أو قم بعمل كل شيء بالأمر المُجَمَّع:**
 ```bash
-pip install cryptography arabic_reshaper python-bidi==0.4.2 --break-system-packages
-
-curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py
-chmod +x ~/mud_enc.py
-sudo ln -sf ~/mud_enc.py /usr/local/bin/enc
+sudo apt update && pip install --upgrade pip && pip install --user cryptography arabic_reshaper python-bidi==0.4.2 && sudo apt install xfonts-utils -y && sudo mkdir -p /usr/share/fonts/truetype/noto && sudo curl -L "https://raw.githubusercontent.com/googlefonts/noto-fonts/main/hinted/ttf/NotoNaskhArabic/NotoNaskhArabic-Regular.ttf" -o /usr/share/fonts/truetype/noto/NotoNaskhArabic-Regular.ttf && sudo fc-cache -fv && curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py && chmod +x ~/mud_enc.py && sudo ln -sf ~/mud_enc.py /usr/local/bin/enc
 ```
 
 ```bash
