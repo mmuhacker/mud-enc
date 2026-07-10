@@ -55,19 +55,19 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 - **الخطوة الأولى:** تحديث النظام والمكتبات
 - 
 ```bash
-  pkg update && pkg install python -y
+pkg update && pkg install python -y
 ```
 
 - **الخطوة الثانية:** تثبيت python-cryptography
 
 ```bash
-  pkg install python-cryptography -y
+pkg install python-cryptography -y
 ```
 
 - **الخطوة الثالثة:** تثبيت المكتبات المطلوبة لعرض النص العربي بالشكل الصحيح
 
 ```bash
-  pip install arabic_reshaper python-bidi==0.4.2
+pip install arabic_reshaper python-bidi==0.4.2
 ```
 
 - **الخطوة الرابعة:** تثبيت الخط العربي (للعرض الصحيح)
@@ -80,18 +80,18 @@ termux-reload-settings
 
 - **الخطوة الخامسة:** تثبيت الأداة
 ```bash
-  curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py
+curl -L -o ~/mud_enc.py https://raw.githubusercontent.com/mmuhacker/mud-enc/main/mud_enc.py
 ```
 
 - **الخطوة السادسة:** إعطاء صلاحية التنفيذ
 - 
 ```bash
-  chmod +x ~/mud_enc.py
+chmod +x ~/mud_enc.py
 ```
 - **الخطوة السابعة:** إنشاء إختصار التشغيل
 
 ```bash
-  ln -sf ~/mud_enc.py $PREFIX/bin/enc
+ln -sf ~/mud_enc.py $PREFIX/bin/enc
 ```
   **أو قم بكل شيء بالأمر المُجَمَّع:**
   
