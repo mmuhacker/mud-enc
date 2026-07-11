@@ -76,27 +76,28 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 <p align="center">
   <img src="img/enc0.png" width="600" alt="بانر الأداة"><br>
   <em>الشكل 1: واجهة البانر الرئيسية</em>
-</p>
+</p><br>
 <p align="center">
   <img src="img/enc1.png" width="600" alt="القائمة الرئيسية"><br>
   <em>الشكل 2: إختيار ألوان البانر للأداة</em>
-</p>
+</p><br>
 <p align="center">
   <img src="img/enc2.png" width="600" alt="بانر الأداة"><br>
   <em>الشكل 3: إختيار لون خلفية الإطارات</em>
-</p>
+</p><br>
 <p align="center">
   <img src="img/enc3.png" width="600" alt="بانر الأداة"><br>
   <em>الشكل 4: إختيار لون النصوص</em>
-</p>
+</p><br>
 <p align="center">
   <img src="img/enc4.png" width="600" alt="بانر الأداة"><br>
   <em>الشكل 5: القائمة الرئيسية</em>
-</p>
+</p><br>
 <p align="center">
   <img src="img/enc5.png" width="600" alt="بانر الأداة"><br>
   <em>الشكل 6: قائمة التشفير/فك التشفير</em>
 </p>
+
 ---
 
 ## ⚙️ التثبيت
