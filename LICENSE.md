@@ -1,9 +1,11 @@
+  - [**الترخيص باللغة العربية**](عربي)
+
 <p align="center">
   <img src="img/enc7.png" width="600" alt="بانر الأداة"></p>
   
   ---
 
-  - [**الترخيص باللغة العربية**](عربي)
+
 
 Madarik Tools — No-Derivatives Attribution License
 Copyright (c) 2026 Muhannad (mmuhacker) — Madarik Tools (مدارك)
