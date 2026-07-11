@@ -405,7 +405,9 @@ chmod +x ~/mud_enc.py
 
 <div align="center">
 
-صُنعت بـ 🖤 كجزء من Madarik Tools
+***صُنع بالعربية كجزء من Madarik Tools***
+
+⭐ ***إذا أعجبتك الأداة، لا تنسَ النجمة!*** ⭐
 
 </div>
 
