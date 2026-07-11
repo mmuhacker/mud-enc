@@ -1,3 +1,5 @@
+
+
 Madarik Tools — No-Derivatives Attribution License
 Copyright (c) 2026 Muhannad (mmuhacker) — Madarik Tools (مدارك)
 Repository: https://github.com/mmuhacker/mud-enc
