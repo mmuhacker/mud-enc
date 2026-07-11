@@ -3,6 +3,8 @@
   
   ---
 
+  - [**الترخيص باللغة العربية**](عربي)
+
 Madarik Tools — No-Derivatives Attribution License
 Copyright (c) 2026 Muhannad (mmuhacker) — Madarik Tools (مدارك)
 Repository: https://github.com/mmuhacker/mud-enc
@@ -48,6 +50,12 @@ copy, and redistribute the Software, subject to the following conditions:
 ════════════════════════
 </div>
 
+<div align="center" id="عربي">
+
+  ***الترخيص***
+
+  </div>
+  
 رخصة مدارك تولز — النسخ والتوزيع بدون تعديل مع ذكر المصدر
 حقوق النشر © 2026 Muhannad Daher(mmuhacker) — مدارك تولز (Madarik Tools)
 رابط المستودع: https://github.com/mmuhacker/mud-enc
