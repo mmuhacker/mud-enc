@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="img/enc6.png" width="600" alt="بانر الأداة"><br
+  <img src="img/enc6.png" width="600" alt="بانر الأداة"></p>div><br>
+  ---
 
 Madarik Tools — No-Derivatives Attribution License
 Copyright (c) 2026 Muhannad (mmuhacker) — Madarik Tools (مدارك)
