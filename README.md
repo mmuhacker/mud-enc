@@ -11,7 +11,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 <div align="center">
   
 [![License](https://img.shields.io/badge/License-No--Derivatives%20Attribution-red)](https://github.com/mmuhacker/mud-enc/blob/main/LICENSE.md)<br>
-[![License](https://img.shields.io/badge/%EF%BA%97%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA%20%EF%BA%A7%EF%BA%8E%D8%B5-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA-8A2BE2?style=for-the-badge&logo=law)]((https://github.com/mmuhacker/mud-enc/blob/main/LICENSE.md)<br>
+[![License](https://img.shields.io/badge/%EF%BA%97%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA%20%EF%BA%A7%EF%BA%8E%D8%B5-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA-8A2BE2?style=for-the-badge&logo=law)](https://github.com/mmuhacker/mud-enc/blob/main/LICENSE.md)<br>
 [![by](https://img.shields.io/badge/mmuhacker-%EF%BA%97%EF%BB%84%EF%BB%AE%EF%BB%B3%EF%BA%AE-blue?style=for-the-badge&logo=github)](https://github.com/mmuhacker)<br>
 ![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge&logo=semver)<br>
 ![Platform](https://img.shields.io/badge/%EF%BA%97%EF%BB%AE%EF%BA%AF%EF%BB%B3%EF%BB%8C%EF%BA%8E%D8%AA%20%EF%BB%9F%EF%BB%B4%EF%BB%A8%EF%BB%9C%EF%BA%B2-%EF%BA%8D%EF%BB%9F%EF%BA%92%EF%BB%B4%EF%BA%8C%EF%BA%94-green?style=for-the-badge&logo=Linux&logoColor=%23FFC107)<br>
