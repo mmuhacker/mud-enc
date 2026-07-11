@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 mud-enc |<br> أداة مدارك للتشفير
+# 🔐 mud-enc<br> أداة مدارك للتشفير
 
 </div>
 
