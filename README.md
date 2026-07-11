@@ -96,7 +96,7 @@ Arabic-first CLI encryption tool for text, code, and any file type — powered b
 <p align="center">
   <img src="img/enc5.png" width="600" alt="بانر الأداة"><br>
   <em>الشكل 6: قائمة التشفير/فك التشفير</em>
-</p>
+</p><br>
 
 ---
 
